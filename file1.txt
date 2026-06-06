@@ -1,2 +1,2 @@
 this is first file in master.
-this is scond line 
+this is scond line in branch1
